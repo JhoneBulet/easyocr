@@ -1,0 +1,9 @@
+# requirements.txt
+
+Flask
+flask-cors
+gunicorn
+easyocr
+opencv-python-headless
+numpy
+Pillow
